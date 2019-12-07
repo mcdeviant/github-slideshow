@@ -2,7 +2,7 @@
 
 layout: slide
 
-title: "Mcdeviant's Test tickles"
+title: "Mcdeviant's Test tickles - try them now"
 
 ---
 
